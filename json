@@ -1,0 +1,4 @@
+2024/12/16 21:06:08 logger_std.go:33: [INFO] teste Info
+2024/12/16 21:06:08 logger_std.go:34: [WARN] teste Warn
+2024/12/16 21:06:08 logger_std.go:32: [DEBUG] teste Debug
+2024/12/16 21:06:08 logger_std.go:35: [ERROR] teste Error
